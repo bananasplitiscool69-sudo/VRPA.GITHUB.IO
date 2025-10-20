@@ -4,6 +4,7 @@
 ### DIV 1
 - NO TEAMS YET
 - OVERSEER
+- Logo: docs/assets/download (2).jpg
 
 ### DIV 2
 - NO TEAMS YET
