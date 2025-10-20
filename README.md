@@ -10,7 +10,7 @@
 
 #### DIV 3
 
-[DIV 3]
+[DIV 3](https://bananasplitiscool69-sudo.github.io/DIV.3/)
 
 
 ##### DISCORD
