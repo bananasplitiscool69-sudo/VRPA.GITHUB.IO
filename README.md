@@ -2,7 +2,7 @@
 
 ## DIV 1
 
-[DIV 1]
+[DIV 1](https://bananasplitiscool69-sudo.github.io/DIV.1/)
 
 ### DIV 2
 
