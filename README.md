@@ -1,11 +1,15 @@
 # VRPA.GITHUB.IO
 
 ## Projects
-### Project 1
+### DIV 1
 - Description
 - Links
 
-### Project 2
+### DIV 2
+- Description
+- Links
+
+#### DIV 3
 - Description
 - Links
 
