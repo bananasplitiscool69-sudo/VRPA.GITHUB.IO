@@ -13,7 +13,7 @@
 - [DIV 3](https://bananasplitiscool69-sudo.github.io/DIV.3/)
 
 
-##### DISCORD
+# DISCORD
 - [DISCORD LINK](https://discord.gg/SV63XuSTY)
 
 # VRPA NEWS
