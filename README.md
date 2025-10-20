@@ -2,15 +2,15 @@
 
 ## DIV 1
 
-[DIV 1](https://bananasplitiscool69-sudo.github.io/DIV.1/)
+- [DIV 1](https://bananasplitiscool69-sudo.github.io/DIV.1/)
 
 ### DIV 2
 
-[DIV 2](https://bananasplitiscool69-sudo.github.io/DIV.2/)
+- [DIV 2](https://bananasplitiscool69-sudo.github.io/DIV.2/)
 
 #### DIV 3
 
-[DIV 3](https://bananasplitiscool69-sudo.github.io/DIV.3/)
+- [DIV 3](https://bananasplitiscool69-sudo.github.io/DIV.3/)
 
 
 ##### DISCORD
