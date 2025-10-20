@@ -3,15 +3,15 @@
 ## Projects
 ### DIV 1
 - NO TEAMS YET
-- Links
+- OVERSEER
 
 ### DIV 2
 - NO TEAMS YET
-- Links
+- OVERSEER
 
 #### DIV 3
 - NO TEAMS YET
-- Links
+- OVERSEER
 
 ##### DISCORD
 - [DISCORD LINK](https://discord.gg/SV63XuSTY)
