@@ -2,15 +2,15 @@
 
 ## Projects
 ### DIV 1
-- Description
+- NO TEAMS YET
 - Links
 
 ### DIV 2
-- Description
+- NO TEAMS YET
 - Links
 
 #### DIV 3
-- Description
+- NO TEAMS YET
 - Links
 
 ##### DISCORD
