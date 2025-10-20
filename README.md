@@ -18,4 +18,4 @@
 
 # DISCORD
 
-- [discord](https://discord.gg/SV63XuSTYN)
+- [Discord Link ](https://discord.gg/SV63XuSTYN)
