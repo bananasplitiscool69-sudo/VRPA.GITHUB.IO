@@ -15,3 +15,7 @@
 
 # VRPA NEWS
 - VRPA WEBSITE MADE ON 20/10/2025
+
+# DISCORD
+
+- [discord](https://discord.gg/SV63XuSTYN)
