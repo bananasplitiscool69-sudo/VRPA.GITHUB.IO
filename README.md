@@ -1,18 +1,17 @@
-# VRPA.GITHUB.IO
+# VRPA
 
-## Projects
-### DIV 1
-- NO TEAMS YET
-- OVERSEER
-  
+## DIV 1
+
+[DIV 1]
 
 ### DIV 2
-- NO TEAMS YET
-- OVERSEER
+
+[DIV 2]
 
 #### DIV 3
-- NO TEAMS YET
-- OVERSEER
+
+[DIV 3]
+
 
 ##### DISCORD
 - [DISCORD LINK](https://discord.gg/SV63XuSTY)
@@ -20,3 +19,7 @@
 # VRPA NEWS
 - VRPA WEBSITE MADE ON 20/10/2025
 
+# VRPA TRANSFER NEWS
+- NONE YET
+
+# VRPA STAFF TEAM
