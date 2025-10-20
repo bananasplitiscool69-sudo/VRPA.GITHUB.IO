@@ -13,9 +13,9 @@
 - Description
 - Links
 
+##### DISCORD
+- [DISCORD LINK](https://discord.gg/SV63XuSTY)
+
 # VRPA NEWS
 - VRPA WEBSITE MADE ON 20/10/2025
 
-# DISCORD
-
-- [Discord Link ](https://discord.gg/SV63XuSTYN)
